@@ -42,8 +42,6 @@ Benefits of working with me:
 I am really good at my job because of my exceptional logical skills and my passion for solving complex problems. I am a hard-worker and fast learner. And I would like to learn new technologies for your projects. So, you will enjoy top-notch and quality Blockchain Development Services.
 On the other hand, I will provide you 100% free support after delivering the project, If you aren’t satisfied. So, send me an invitation to interview and I will gladly discuss your projects.
 Thanks for your time.
-Regards
-Walid
 
 Skills: Blockchain Developer (DeFi) | Solidity | Ethereum | Smart Contract | Web3js | Truffle | Cryptography | HTML | CSS | JavaScript | React.js | Nodejs | Git & GitHub
 
