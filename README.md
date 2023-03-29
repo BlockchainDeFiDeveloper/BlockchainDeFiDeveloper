@@ -29,8 +29,8 @@ Tools I use:
 - Truffle/Hardhat
 - Metamask
 -web3.js/ethers.js
-
 -Node.js
+
 -Frontend: React.js/JavaScript/HTML/CSS
 
 -IDEs: Remix & Visual Studio Code
