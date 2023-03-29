@@ -3,7 +3,7 @@
 #### Blockchain Developer (DeFi)
 
 
-Hi,
+
 I have a strong understanding of building and maintaining smart contracts as well as building mobile-responsive front-end for web3 applications. I provide blockchain solutions development and consultancy so you have got all you need when you step into the blockchain space.
 I often deal with the smart contracts development (tokens, yield farms, liquidity pools), development of DeFi platforms, DAO, dApps, GameFi and others. In addition, there is demand for DEX/CEX platforms and their bots (market makers, liquidity providers, arbitrage bots). Feel free to contact me if you want to discuss anything.
 
