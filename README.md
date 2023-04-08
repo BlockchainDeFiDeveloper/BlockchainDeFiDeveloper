@@ -38,7 +38,6 @@ Tools I use:
 - Metamask
 - 
 -web3.js/ethers.js
-
 -Node.js
 
 -Frontend: Reactjs/JavaScript/Nextjs/TypeScript/HTML/CSS
