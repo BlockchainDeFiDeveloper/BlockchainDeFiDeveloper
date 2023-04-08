@@ -2,12 +2,14 @@
 ### Hi there 👋, I am Walid Munkar.
 #### Blockchain Developer (DeFi)
 
-
-
 I have a strong understanding of building and maintaining smart contracts as well as building mobile-responsive front-end for web3 applications. I provide blockchain solutions development and consultancy so you have got all you need when you step into the blockchain space.
 I often deal with the smart contracts development (tokens, yield farms, liquidity pools), development of DeFi platforms, DAO, dApps, GameFi and others. In addition, there is demand for DEX/CEX platforms and their bots (market makers, liquidity providers, arbitrage bots). Feel free to contact me if you want to discuss anything.
 
 My Skills:
+-Web3.0 Front-End Development
+-Converting Figma/PSD templates to custom coded designs
+-Web3.0 Back-End Development
+-Integrating wallets in a dApp to interact with smart contracts over EVM Blockchains using Web3.js.
 - Research, design, develop, and test blockchain technologies
 - Smart Contract Development
 - Smart Contract Integration Development
@@ -28,14 +30,11 @@ Tools I use:
 - Solidity
 - Truffle/Hardhat
 - Metamask
-
 -web3.js/ethers.js
-
 -Node.js
-
--Frontend: React.js/JavaScript/HTML/CSS
-
+-Frontend: Reactjs/JavaScript/Nextjs/TypeScript/HTML/CSS
 -IDEs: Remix & Visual Studio Code
+-Figma & Photoshop
 
 Benefits of working with me:
 - In-depth knowledge of best practices in blockchain management and data protection.
@@ -46,6 +45,8 @@ Benefits of working with me:
 I am really good at my job because of my exceptional logical skills and my passion for solving complex problems. I am a hard-worker and fast learner. And I would like to learn new technologies for your projects. So, you will enjoy top-notch and quality Blockchain Development Services.
 On the other hand, I will provide you 100% free support after delivering the project, If you aren’t satisfied. So, send me an invitation to interview and I will gladly discuss your projects.
 Thanks for your time.
+Regards
+Walid
 
 Skills: Blockchain Developer (DeFi) | Solidity | Ethereum | Smart Contract | Web3js | Truffle | Cryptography | HTML | CSS | JavaScript | React.js | Nodejs | Git & GitHub
 
