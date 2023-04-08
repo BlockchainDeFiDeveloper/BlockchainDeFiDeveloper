@@ -36,10 +36,15 @@ Tools I use:
 - Solidity
 - Truffle/Hardhat
 - Metamask
+- 
 -web3.js/ethers.js
+
 -Node.js
+
 -Frontend: Reactjs/JavaScript/Nextjs/TypeScript/HTML/CSS
+
 -IDEs: Remix & Visual Studio Code
+
 -Figma & Photoshop
 
 Benefits of working with me:
