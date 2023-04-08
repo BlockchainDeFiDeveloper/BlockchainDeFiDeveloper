@@ -6,9 +6,9 @@ I have a strong understanding of building and maintaining smart contracts as wel
 I often deal with the smart contracts development (tokens, yield farms, liquidity pools), development of DeFi platforms, DAO, dApps, GameFi and others. In addition, there is demand for DEX/CEX platforms and their bots (market makers, liquidity providers, arbitrage bots). Feel free to contact me if you want to discuss anything.
 
 My Skills:
--Web3.0 Front-End Development
+-Web3.0 Frontend Development
 -Converting Figma/PSD templates to custom coded designs
--Web3.0 Back-End Development
+-Web3.0 Backend Development
 -Integrating wallets in a dApp to interact with smart contracts over EVM Blockchains using Web3.js.
 - Research, design, develop, and test blockchain technologies
 - Smart Contract Development
@@ -43,6 +43,7 @@ Benefits of working with me:
 - Excellent communication and collaboration abilities
 
 I am really good at my job because of my exceptional logical skills and my passion for solving complex problems. I am a hard-worker and fast learner. And I would like to learn new technologies for your projects. So, you will enjoy top-notch and quality Blockchain Development Services.
+
 On the other hand, I will provide you 100% free support after delivering the project, If you aren’t satisfied. So, send me an invitation to interview and I will gladly discuss your projects.
 Thanks for your time.
 Regards
